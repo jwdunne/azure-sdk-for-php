@@ -10,9 +10,9 @@
     }
   ],
   "require": {
-    "pear-pear.php.net/HTTP_Request2": "*",
-    "pear-pear.php.net/Mail_Mime": "*",
-    "pear-pear.php.net/Mail_mimeDecode": "*",
+    "pear/HTTP_Request2": "*",
+    "pear/Mail_Mime": "*",
+    "pear/Mail_mimeDecode": "*",
     "firebase/php-jwt": "^3.0"
   },
   "require-dev": {
