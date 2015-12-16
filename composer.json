@@ -12,7 +12,7 @@
   "require": {
     "pear/HTTP_Request2": "*",
     "pear/Mail_Mime": "*",
-    "pear/Mail_mimeDecode": "*",
+    "pear/mail_mime-decode": "*",
     "firebase/php-jwt": "^3.0"
   },
   "require-dev": {
